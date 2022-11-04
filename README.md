@@ -15,4 +15,4 @@
 + Open obs-studio/plugins/CMakeLists.txt, add `add_subdirectory(wasapi-capture)` after `if(OS_WINDOWS)`
 + follow obs-studio build instructions to build the project
 # License
-MIT
+GPL
